@@ -1,10 +1,28 @@
-# 💼 Cybersecurity Analyst & GRC Portfolio
+# 💼 Cybersecurity GRC Analyst Portfolio
 
 Welcome! This portfolio highlights hands-on projects demonstrating my skills in cybersecurity analysis, security awareness training, GRC, incident response, and IT auditing.
 
 ## 🔐 Featured Projects
 
-### 1. 📋 GRC Compliance Tracker
+---
+
+### 1.. 📊 ISO 27001 Audit Assessment
+- Conducted a control gap analysis for a fictional SaaS company
+- Identified missing ISO 27001:2022 Annex A controls and remediation plan
+- Delivered an audit-ready gap analysis report, remediation roadmap, and executive summary 
+- [View full audit »](https://github.com/Stefan-Laage/Achieving-ISO-27001-Certification-for-an-organization)
+
+---
+
+### 2. 🏁 Cybersecurity Progarm creation using NIST
+- Assesses organisational cybersecurity maturity across the five NIST CSF functions: Identify, Protect, Detect, Respond, and Recover
+- Maps controls and practices to NIST categories to highlight gaps, strengths, and risk exposure
+- Supports risk-based prioritisation and remediation planning aligned with governance and compliance objectives
+- [See program creation »](https://github.com/Stefan-Laage/GRC-Compliance-Tracker)
+
+---
+
+### 3. 📋 GRC Compliance Tracker
 - Created a sample NIST 800-53 control checklist
 - Mapped controls to fictitious system and showed audit trail
 - Simulated stakeholder reporting dashboard
@@ -12,15 +30,7 @@ Welcome! This portfolio highlights hands-on projects demonstrating my skills in 
 
 ---
 
-### 2. 📊 ISO 27001 Gap Assessment
-- Conducted a control gap analysis for a fictional SaaS company
-- Identified missing ISO 27001:2022 Annex A controls and remediation plan
-- Tools used: Google Sheets, markdown documentation, risk-based approach  
-- [View full gap assessment »](https://github.com/joleanmcpherson/iso-27001-gap-assessment)
-
----
-
-### 3. 🎓 Security Awareness Training Program
+### 4. 🎓 Security Awareness Training Program
 
 - Designed comprehensive quarterly training curriculum covering phishing, password security, and insider threats
 - Created cost-effective implementation strategy leveraging existing tools (SharePoint, ServiceNow GRC)
@@ -29,7 +39,25 @@ Welcome! This portfolio highlights hands-on projects demonstrating my skills in 
 
 ---
 
-### 4. 📧 Email Header Analysis for Phishing Attempts
+### 5. 🔍 Cyber Risk Quantification using the FAIR model
+
+- Applies the FAIR (Factor Analysis of Information Risk) model to Cyber Risk Quantification
+- Translates cyber threats into clear, financial risk metrics
+- Enables estimation of potential monetary losses from ransomware, data breaches, and system outages
+- [View the applied model»](https://github.com/Stefan-Laage/Cyber-Risk-Quantification-FAIR-model-)
+
+---
+
+### 6. 🚨 Incident Response Plan
+
+- Designed comprehensive quarterly training curriculum covering phishing, password security, and insider threats
+- Created cost-effective implementation strategy leveraging existing tools (SharePoint, ServiceNow GRC)
+- Developed measurable success metrics and budget analysis for lean vs. premium deployment options
+- [View response plan»](https://github.com/Stefan-Laage/Incident-Response-Plan)
+
+---
+
+### 7. 📧 Email Header Analysis for Phishing Attempts
 - Automated detection of phishing attempts by parsing and analyzing email headers
 - Identified spoofed domains, failed SPF/DKIM checks, and suspicious IPs
 - Built using Python to improve email security protocols and SOC efficiency
@@ -37,7 +65,7 @@ Welcome! This portfolio highlights hands-on projects demonstrating my skills in 
 
 ---
 
-### 5. 🛡️SOC Homelab & Azure Honeynet Deployment
+### 8. 🛡️SOC Homelab & Azure Honeynet Deployment
 
 - Built a mini honeynet in Microsoft Azure and ingested logs into a Log Analytics workspace
 - Used Microsoft Sentinel to generate attack maps, alerts, and incidents from real traffic
@@ -47,12 +75,10 @@ Welcome! This portfolio highlights hands-on projects demonstrating my skills in 
 
 ---
 
-### 6. 🐍 Honeypot Deployment 
+### 9. 🍯 Honeypot Deployment 
 - Simulated a public-facing server to capture malicious activity
 - Analyzed attacker behavior via log files
 - Tools used: Ubuntu, Docker, ELK stack
 - [View full project write-up »](https://github.com/Stefan-Laage/Custom-Honeypot)
 
 ---
-
-
