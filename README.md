@@ -7,9 +7,7 @@ Welcome! This portfolio highlights hands-on projects demonstrating my skills in 
 ---
 
 ### 1.. 📊 ISO 27001 Audit Assessment
-- Conducted a control gap analysis for a fictional SaaS company
-- Identified missing ISO 27001:2022 Annex A controls and remediation plan
-- Delivered an audit-ready gap analysis report, remediation roadmap, and executive summary 
+- ISO/IEC 27001 ISMS assessment covering mandatory clauses and Annex A controls, enabling gap analysis, risk-based control selection, and audit readiness
 - [View full audit »](https://github.com/Stefan-Laage/Achieving-ISO-27001-Certification-for-an-organization)
 
 ---
