@@ -6,13 +6,13 @@ Welcome! This portfolio highlights hands-on projects demonstrating my skills in 
 
 ---
 
-### 1. 📊 ISO 27001 Audit Assessment
+### 1 📊 ISO 27001 Audit Assessment
 - ISO/IEC 27001 ISMS assessment covering mandatory clauses and Annex A controls, enabling gap analysis, risk-based control selection, and audit readiness
 - [View full audit »](https://github.com/Stefan-Laage/Achieving-ISO-27001-Certification-for-an-organization)
 
 ---
 
-### 2. 🏁 Cybersecurity Progarm creation using NIST
+### 2 🏁 Cybersecurity Progarm creation using NIST
 - Assesses organisational cybersecurity maturity across the five NIST CSF functions: Identify, Protect, Detect, Respond, and Recover
 - Maps controls and practices to NIST categories to highlight gaps, strengths, and risk exposure
 - Supports risk-based prioritisation and remediation planning aligned with governance and compliance objectives
@@ -20,7 +20,7 @@ Welcome! This portfolio highlights hands-on projects demonstrating my skills in 
 
 ---
 
-### 3. 📋 GRC Compliance Tracker
+### 3 📋 GRC Compliance Tracker
 - Created a sample NIST 800-53 control checklist
 - Mapped controls to fictitious system and showed audit trail
 - Simulated stakeholder reporting dashboard
@@ -28,7 +28,7 @@ Welcome! This portfolio highlights hands-on projects demonstrating my skills in 
 
 ---
 
-### 4. 🎓 Security Awareness Training Program
+### 4 🎓 Security Awareness Training Program
 
 - Designed comprehensive quarterly training curriculum covering phishing, password security, and insider threats
 - Created cost-effective implementation strategy leveraging existing tools (SharePoint, ServiceNow GRC)
@@ -37,7 +37,7 @@ Welcome! This portfolio highlights hands-on projects demonstrating my skills in 
 
 ---
 
-### 5. 🔍 Cyber Risk Quantification using the FAIR model
+### 5 🔍 Cyber Risk Quantification using the FAIR model
 
 - Applies the FAIR (Factor Analysis of Information Risk) model to Cyber Risk Quantification
 - Translates cyber threats into clear, financial risk metrics
@@ -46,7 +46,7 @@ Welcome! This portfolio highlights hands-on projects demonstrating my skills in 
 
 ---
 
-### 6. 🚨 Incident Response Plan
+### 6 🚨 Incident Response Plan
 
 - Designed comprehensive quarterly training curriculum covering phishing, password security, and insider threats
 - Created cost-effective implementation strategy leveraging existing tools (SharePoint, ServiceNow GRC)
@@ -55,7 +55,7 @@ Welcome! This portfolio highlights hands-on projects demonstrating my skills in 
 
 ---
 
-### 7. 📧 Email Header Analysis for Phishing Attempts
+### 7 📧 Email Header Analysis for Phishing Attempts
 - Automated detection of phishing attempts by parsing and analyzing email headers
 - Identified spoofed domains, failed SPF/DKIM checks, and suspicious IPs
 - Built using Python to improve email security protocols and SOC efficiency
@@ -63,7 +63,7 @@ Welcome! This portfolio highlights hands-on projects demonstrating my skills in 
 
 ---
 
-### 8. 🛡️SOC Homelab & Azure Honeynet Deployment
+### 8 🛡️SOC Homelab & Azure Honeynet Deployment
 
 - Built a mini honeynet in Microsoft Azure and ingested logs into a Log Analytics workspace
 - Used Microsoft Sentinel to generate attack maps, alerts, and incidents from real traffic
@@ -73,7 +73,7 @@ Welcome! This portfolio highlights hands-on projects demonstrating my skills in 
 
 ---
 
-### 9. 🍯 Honeypot Deployment 
+### 9 🍯 Honeypot Deployment 
 - Simulated a public-facing server to capture malicious activity
 - Analyzed attacker behavior via log files
 - Tools used: Ubuntu, Docker, ELK stack
